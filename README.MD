@@ -79,3 +79,4 @@ O modelo k-vizinhos mais próximos (KNN) em sua configuração Base é a soluç�
 O projeto foi entregue no repositório GitHub, contendo o Notebook Jupyter (`CP5_IA.ipynb`) com o código completo, e este `README.md` detalhado com a metodologia e os resultados.
 
 https://colab.research.google.com/drive/1B6J_6AjeL-xg9quzfMBtmCUPIna4lc7h#scrollTo=G9CE4M96CzWA
+https://github.com/Fabriciopereira-sp/Repositorio_CP5_IA.git
